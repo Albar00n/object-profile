@@ -14,7 +14,7 @@ const Model = () => {
         <model-viewer
           src="/e.glb"
           ios-src="/e.usdz"
-          shadow-intensity="1"
+          // shadow-intensity="1"
           ar-modes="webxr scene-viewer quick-look"
           ar=""
           xr=""
